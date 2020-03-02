@@ -131,9 +131,8 @@ public class SayHiImpl implements SayHi {
 ## 5.接口文档效果图
 ![效果图](https://github.com/luffytalory/springfox-swagger-extension-demo/blob/master/render.png)
 ## 6.support
->  If you have no any question, you can send email to
->  **talory520@sina.cn**, It's my pleasure to help you to resolve use
->  problem.
+>  If you have any question, you can send email to
+>  **talory520@sina.cn**, It's my pleasure to help you.
 
  
 
